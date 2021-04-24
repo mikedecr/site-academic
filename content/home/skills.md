@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -10,25 +13,44 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+# - name: R
+#   description: Tidyverse, ggplot2
+#   icon: r-project
+#   icon_pack: fab
+# - name: Python
+#   description: Pandas, seaborn
+#   icon: python
+#   icon_pack: fab
+- name: Statistics + ML
+  description: GLMs, time series, kernel models, neural networks
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+- name: Bayesian analysis
+  description: Generative + hierarchical models, MCMC/HMC
+  icon: dice
   icon_pack: fas
-  name: Photography
-
+- name: Statistical Programming
+  description: R, Python
+  icon: terminal
+  icon_pack: fas
+- name: Probabilistic Programming
+  description: Stan, pymc3, brms, JAGS/BUGS
+  icon: chart-area
+  icon_pack: fas
+- name: Data Visualization
+  description: ggplot2, seaborn
+  icon: chart-bar
+  icon_pack: fas
+- name: Version Control
+  description: Git, Github, Git flow
+  icon: code-branch
+  icon_pack: fas
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
