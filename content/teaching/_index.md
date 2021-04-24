@@ -1,7 +1,7 @@
 ---
-title: Teaching Resources
+title: Instructional Resources
 subtitle: |
-    I taught the following courses during my time as a Ph.D. student at UW–Madison.
+    I led the following courses and workshops during my time as a Ph.D. student at UW–Madison.
 type: page
 ---
 
