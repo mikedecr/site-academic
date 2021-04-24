@@ -62,7 +62,8 @@ highlight_languages = ["r", "python", "latex"]  # Add support for highlighting a
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+# MGD: this is globally set false but re-enabled in custom_head.html
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
