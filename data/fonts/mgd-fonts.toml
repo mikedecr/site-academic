@@ -1,0 +1,17 @@
+# Font style metadata
+name = "mgd-fonts"
+
+# Optional Google font URL
+google_fonts = "Amiri|Karla:400,600|Inconsolata|JetBrains+Mono|Source+Serif+Pro:400,700|Source+Sans+Pro:600|Roboto+Mono"
+
+# would need to be larger: [amiri, inconsolata]
+
+# Font families
+heading_font = "Karla"
+body_font = "Karla"
+nav_font = "Karla"
+mono_font = "JetBrains Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
