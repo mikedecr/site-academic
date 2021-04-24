@@ -1,6 +1,6 @@
 theme: starter-academic
-baseurl: ''
 title: Michael DeCrescenzo
+baseurl: 'https://mikedecr.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
