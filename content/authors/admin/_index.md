@@ -43,6 +43,24 @@ social:
   link: https://www.linkedin.com/
 superuser: true
 title: Nelson Bighetti
+# social:
+# - icon: code-branch
+#   icon_pack: fas
+#   link: https://github.com/mikedecr
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/mikedecr
+# - icon: envelope-open
+#   icon_pack: fas
+#   link: /#contact
+#   display:
+#     header: true
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
