@@ -21,4 +21,4 @@ My research is published in the _Election Law Journal_ and _The Forum_ and has b
 <!-- I grew up in St. Louis MO and completed undergrad at the University of Missouri.
 I've spent a few summers in Berkeley CA as well. -->
 
-in my leisure time, I like to play guitar (badly), ride a road bike (slightly less badly), and mix cocktails (even when it's bad, it's good).
+In my leisure time, I like to play guitar (badly), ride a road bike (slightly less badly), and mix cocktails (even when it's bad, it's good).
